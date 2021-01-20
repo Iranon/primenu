@@ -1,5 +1,5 @@
 # primenu
-#### A template to print a menu inside a shell
+#### A template (C language) to print a menu inside a shell
 
 
 <p>Include the primenu.h header file with "" inside your program.<br>
